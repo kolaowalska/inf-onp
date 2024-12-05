@@ -13,7 +13,8 @@ The program recognizes the following operators:
 
 Operators follow standard precedence rules, with unary operators having higher precedence than binary operators. 
 
-Input Format: the program accepts multiple expressions (the number of them should be specified), with each line starting with either `INF:` or `ONP:`, followed by the expression. It does not handle non-standard characters in expressions.
+__Input format__\
+The program accepts multiple expressions (the number of them should be specified), with each line starting with either `INF:` or `ONP:`, followed by the expression. It does not handle non-standard characters in expressions.
 
 Example input:
 ```
